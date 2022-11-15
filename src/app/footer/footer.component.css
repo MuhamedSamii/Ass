@@ -1,0 +1,16 @@
+
+i{
+    
+   
+    border: 1px solid grey;
+    padding: 18px;
+    color: white;
+    box-shadow: 0 0 2px #888;
+  }
+i:hover{
+
+
+    background-color: white;
+    color: #212529;
+    transition: 0.5s all;
+}

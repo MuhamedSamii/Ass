@@ -1,0 +1,12 @@
+.white-line
+{
+    width: 100px;
+    height: 5px;
+    background-color: white;
+    position: relative;
+    top: 17px;
+}
+.first-section
+{
+    background-color: #1ABC9C;
+}

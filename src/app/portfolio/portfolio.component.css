@@ -1,0 +1,26 @@
+.white-line
+{
+    width: 100px;
+    height: 5px;
+    background-color: black;
+    position: relative;
+    top: 17px;
+}
+.trialBorder
+{
+   border: 1px solid red;
+    border-radius: 15px;
+}
+.bg-hover
+{
+    background-color: #1ABC9C;
+    opacity: 0.9;
+    transition: all 0..2s ;
+    visibility: hidden;
+    
+}
+.ttt:hover .bg-hover
+{
+
+    visibility: visible;
+}

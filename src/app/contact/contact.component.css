@@ -1,0 +1,24 @@
+.white-line
+{
+    width: 100px;
+    height: 5px;
+    background-color: black;
+    position: relative;
+    top: 17px;
+}
+.ttt
+{
+    border: none;
+    border-bottom: 1px solid gray;
+}
+.contactbtn
+{
+    background-color: #1ABC9C;
+    min-width: 18%;
+    transition: all 0s;
+}
+.contactbtn:hover{
+
+
+    box-shadow: 1px 1px 1px #1ABC9C;
+}

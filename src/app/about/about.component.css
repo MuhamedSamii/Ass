@@ -1,0 +1,18 @@
+.white-line
+{
+    width: 100px;
+    height: 5px;
+    background-color: white;
+    position: relative;
+    top: 17px;
+}
+.second-section{
+    background-color: #1ABC9C;
+    color: white;
+    
+}
+.mx-width
+{
+    max-width: 350px;
+    color: white;
+}
